@@ -1,0 +1,19 @@
+{
+  "name": "Credit Card Processing",
+  "version": "1.0.0",
+  "description": "Write a small full stack application for a credit card provider. It should allow you to add new credit card accounts and view them as a list. The backend must be a RESTful API.",
+  "title": "Credit Card Processing",
+  "url" 		: "",
+  "sampleUrl": "DYNAMIC",
+  "header": {
+    "title": "Overview",
+    "filename": "src/templates/apidocs_template/header.md"
+  },
+  "footer": {
+    "filename": "src/templates/apidocs_template/footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
